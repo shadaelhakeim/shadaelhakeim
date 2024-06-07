@@ -15,14 +15,16 @@
 
 - 📫 How to reach me **shadaelhakeim@gmail.com**
 
-- ⚡ Fun fact **i'm cat lover 🐈**
+- ⚡ Fun fact: **i'm cat lover 🐈**
 
 ### 🛠 &nbsp;Languages and Tools :
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Bootstrap%20-05122A?style=flat&logo=Bootstrap)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap%20-05122A?style=flat&logo=Bootstrap)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
