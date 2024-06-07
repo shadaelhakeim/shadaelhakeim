@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **react , java script native**
 
--👯 Open to collaborate on innovative projects and open source
+- 👯 Open to collaborate on innovative projects and open source
 
 - 💬 Ask me about **html , css , bootstrap , programming**
 
