@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Shada Abdelhakeim</h1>
+<h1 align="center">Welcome to Shada Abdelhakeim's profile 👋 </h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEC7E1&center=true&vCenter=true&random=false&width=435&lines=A+Front+End+developer+from+Egypt.;A+Software+Engineer+!;Always+learn+new+things+!" alt="Typing SVG" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayakhaled0197&label=Profile%20views&color=0e75b6&style=flat" alt="shadaelhakeim" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ayakhaled0197&label=Profile%20views&color=0e75b6&style=flat" alt="shadaelhakeim" /> </p>
 
 
 - 🌱 I’m currently learning **react , java script native**
@@ -44,6 +44,3 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaledradwan96&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
-<a href="https://komarev.com/ghpvc/?username=khaledradwan96&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=khaledradwan96&style=for-the-badge">
-</a>
