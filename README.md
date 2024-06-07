@@ -2,6 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Shada Abdelhakeim</h1>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEC7E1&random=false&width=435&lines=A+Front+End+developer+from+Egypt.;A+Software+Engineer+!;Always+learn+new+things+!" alt="Typing SVG" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayakhaled0197&label=Profile%20views&color=0e75b6&style=flat" alt="shadaelhakeim" /> </p>
+
 
 - 🌱 I’m currently learning **react , java script native**
 
@@ -17,7 +20,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![Python](https://img.shields.io/badge/-Bootstrap%20-05122A?style=flat&logo=Bootstrap)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
