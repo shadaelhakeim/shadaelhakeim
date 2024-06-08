@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shadaelhakeim@gmail.com**
 
-- ⚡ Fun fact: **i'm cat lover 🐈**
+- ⚡ Fun fact: **i'm a cat lover 🐈**
 
 ### 🛠 &nbsp;Languages and Tools :
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
