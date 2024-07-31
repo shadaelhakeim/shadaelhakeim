@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadaelhakeim&label=Profile%20views&color=orange&style=flat" alt="shadaelhakeim" /> </p>
 
 
-- 🌱 I’m currently learning **react , java script native**
+- 🌱 I’m currently learning **react , javascript native**
 
 - 👯 Open to collaborate on innovative projects and open source
 
